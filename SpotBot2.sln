@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotBot2", "SpotBot2\SpotBot2.csproj", "{D5A2B171-95D0-4B28-988B-DFC6A0C53001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotBot2Tests", "SpotBot2Tests\SpotBot2Tests.csproj", "{DE5DCE5F-67FF-4934-AB86-48DB9D8B95F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A2B171-95D0-4B28-988B-DFC6A0C53001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A2B171-95D0-4B28-988B-DFC6A0C53001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A2B171-95D0-4B28-988B-DFC6A0C53001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A2B171-95D0-4B28-988B-DFC6A0C53001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5DCE5F-67FF-4934-AB86-48DB9D8B95F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5DCE5F-67FF-4934-AB86-48DB9D8B95F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5DCE5F-67FF-4934-AB86-48DB9D8B95F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5DCE5F-67FF-4934-AB86-48DB9D8B95F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE8F38E7-37CA-4107-82AE-E444040B71A4}
+	EndGlobalSection
+EndGlobal
