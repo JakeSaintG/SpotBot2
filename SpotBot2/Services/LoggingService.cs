@@ -17,7 +17,7 @@ public class LoggingService
 			Console.WriteLine(cmdException);
 		}
 		else
-			{Console.WriteLine($"[General/{message.Severity}] {message}");}
+			Console.WriteLine($"[General/{message.Severity}] {message}");
 
 		return Task.CompletedTask;
 	}
